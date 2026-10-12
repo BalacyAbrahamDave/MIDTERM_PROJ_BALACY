@@ -1,0 +1,224 @@
+.idxHdr {
+    text-align: center; 
+    color: rgb(66, 64, 100);
+    border-style: solid;
+    border-radius: 15px;
+    border-color: rgb(181, 229, 255);
+    background-color: rgb(226, 159, 96);
+}
+#idxImg {
+    text-align: center;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: rgb(242, 186, 162);
+}
+.sunset {
+    text-align: center;
+    color:rgb(242, 186, 162);
+}
+#idxbttn {
+    color: rgb(181, 229, 255);
+    text-align: center;
+    background-color: rgb(226, 159, 96);
+    border-color: rgb(181, 229, 255);
+    border-style: solid;
+    border-radius: 15px;
+}
+#idxbody {
+    background-image: url('imgs/Sunset.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.idxcol {
+    color: rgb(66, 64, 100);
+}
+.center {
+    text-align: center;
+
+}
+.Abtcol {
+    color: rgb(255, 255, 255);
+}
+#AbtImg {
+    border-style: ridge;
+    border-width: 10px;
+    border-color: rgb(209, 92, 92);
+}
+#AbtInt {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(209, 92, 92);
+    border-left-style: double;
+    border-left-color: rgb(255, 255, 255);
+    border-top-style: solid;
+    border-top-color: rgb(255, 255, 255);
+    border-right-style: double;
+    border-right-color: rgb(255, 255, 255);
+    border-bottom-style: solid;
+    border-bottom-color: rgb(255, 255, 255);
+    border-width: 25px;
+    border-radius: 150px;
+}
+#AbtHobs {
+    color: rgb(255, 251, 0);
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(255, 251, 0);
+    border-radius: 20px;
+    background-color: rgb(136, 0, 240);
+}
+#Abtbody {
+    background-color: rgb(23, 27, 43);
+}
+.AbtHdr {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: rgb(209, 92, 92);
+}
+#AbtUL1 {
+    border-left-style: solid;
+    border-radius: 40px;
+    border-width: 20px;
+    border-color: rgb(255, 251, 0);
+}
+.Abtbttn {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: rgb(209, 92, 92);
+}
+#green {
+    color: rgb(50, 179, 7);
+}
+#blue {
+    color: rgb(14, 190, 202);
+}
+#purple {
+    color: rgb(197, 34, 206);
+}
+#red {
+    color: rgb(237,5,5);
+}
+#orange {
+    color: rgb(240,147,0);
+}
+.left {
+    text-align: left;
+}
+#AbtMFli {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(209, 92, 92);
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 100px;
+}
+#SHSbody {
+    background-color: rgb(80, 72, 116);
+    background-image: url('imgs/School.gif');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.SHSHdr {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    background-color: rgb(209, 189, 101);
+    border-style: solid ;
+    border-width: 3px;
+    border-radius: 20px;
+}
+#SHSbttn {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    background-color: rgb(209, 189, 101);
+    border-style: solid ;
+    border-width: 3px;
+    border-radius: 20px;
+}
+.SHScol {
+    color: rgb(255, 0, 0);
+}
+#SHSGP {
+    color: rgb(171, 171, 237);
+    text-align: center;
+    background-color: rgb(90, 90, 134);
+    border-style: solid;
+    border-radius: 20px;
+}
+.SHSGPImg {
+    text-align: center;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: rgb(171, 171, 237);
+}
+#SHSP1tx {
+    background-color: rgb(171, 171, 237);
+    text-align:center;
+    border-style: double;
+    border-color: black;
+}
+#SHSICT {
+    color: rgb(49, 209, 27);
+    text-align: center;
+    background-color: rgb(26, 109, 39);
+    border-style: solid;
+    border-radius: 20px;
+}
+.SHSICTImg {
+    text-align: center;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: rgb(49, 209, 27);
+}
+#SHSP2tx {
+    background-color: rgb(49,209,27);
+    text-align:center;
+    border-style: double;
+    border-color: black;
+}
+#SHSPDC {
+    color: rgb(255, 21, 21);
+    text-align: center;
+    background-color: rgb(139, 27, 27);
+    border-style: solid;
+    border-radius: 20px;
+}
+.SHSPDCImg {
+    text-align: center;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: rgb(255, 21, 21);
+}
+#SHSP3tx {
+    background-color: rgb(255, 21,21);
+    text-align:center;
+    border-style: double;
+    border-color: black;
+}
+#SHSGD {
+    color: rgb(228, 71, 248);
+    text-align: center;
+    background-color: rgb(143, 80, 140);
+    border-style: solid;
+    border-radius: 20px;
+}
+.SHSGDImg {
+    text-align: center;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: rgb(228, 71, 248);
+}
+#SHSP4tx {
+    background-color: rgb(228, 71, 248);
+    text-align:center;
+    border-style: double;
+    border-color: black;
+}
